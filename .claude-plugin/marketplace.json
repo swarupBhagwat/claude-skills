@@ -1,0 +1,11 @@
+{
+  "name": "claudeskills-marketplace",
+  "owner": { "name": "Swarup" },
+  "plugins": [
+    {
+      "name": "study-skills",
+      "source": "./my-study-skills-plugin",
+      "description": "Skills for turning notes into flashcards, summaries, and illustrated PDF study guides"
+    }
+  ]
+}
